@@ -1,0 +1,670 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+ /* Header Menu Hide Media Css */
+ nav.navbar {
+    padding: 6px 35px;
+}
+ .main-nav {
+    background: #333;
+    color: #fff;
+ }
+ .main-nav ul li a {
+    
+    color: #fff !important;
+    margin-left: 25px;
+    
+    margin-top: 10px;
+}
+.welcome-section {
+    padding: 64px 0;
+}
+.section-title h2 {
+    
+    font-size: 22px;
+   
+}
+.section-title p {
+    
+    padding: 0px 80px;
+    font-size: 14px;
+   
+}
+.parallax-container {
+  
+    display: none;
+}
+.welcome-content {
+    margin-top: 0;
+}
+.coffee-express h3 {
+    font-size: 50px;
+   
+    margin-left: 43px;
+}
+.coffee-express h4 {
+    font-size: 50.8px;
+    margin-left: 45px;
+}
+.coffee-express p {
+    font-size: 14px;
+    color: #605850;
+    margin-left: 39px;
+    padding: 0 0;
+}
+a.read-more {
+    
+    font-size: 30px;
+    margin-left: 199px;
+}
+.hot-img img {
+    width: 100%;
+    height: auto;
+}
+.hot-menu-content {
+    margin-left: 0px; 
+}
+
+
+.hot-menu-content img {
+    width: 75PX;
+}
+.hot-menu-content h2 {
+    font-size: 21px;
+}
+
+
+.hot-menu-content h3 {
+
+    font-size: 12px;
+    line-height: 22px;
+}
+.hot-menu-content h5 {
+   
+    display: none;
+}
+
+a.full-menu {
+
+    font-size: 12px;
+    padding: 16px 12px;
+    
+}
+.page-title-area {
+   
+    padding: 1px 0;
+   
+   
+}
+
+.p-title h3 {
+    font-size: 19px;
+    margin-top: -24px;
+}
+.w-text h3 {
+    font-size: 20px;
+    letter-spacing: 6.12px;
+    line-height: 28px;
+    margin-bottom: 33px;
+}
+.w-text p {
+
+    padding: 0 36px;
+}.banner-left-text h4 {
+    font-size: 61.8px;
+    padding-left: 70px;
+   
+}
+
+.banner-left-text h2 {
+    font-size: 70.8px;
+    line-height: 84px;
+    margin-left: 88px;
+}
+.banner-left-text p {
+    font-size: 14px;
+    margin-left: 43px;
+    
+}
+
+.banner-left-text .read-more {
+    margin-left: 41px;
+}
+.food-item {
+    
+    display: none !important;
+}
+a.subscrib-btn {
+  
+    display: none;
+}
+.catagori {
+    display: none;
+}
+
+
+.title h3 {
+    font-size: 23px;
+    text-align: center;
+}
+
+
+.single-post {
+    text-align: center;
+}
+.product-area-content {
+    margin-top: 31px;
+}
+.product-area-top input {
+  
+    margin-left: 19px;
+}
+.blog-title h3 {
+   
+    font-size: 26px;
+    
+}
+ /******/
+
+ .parallax-viewport {
+    width: 100%;
+    top: 10px;
+}
+
+.bg-1 {
+    height: 310px;
+}
+ .parallax1 {
+    left: 0;
+}
+.parallax1 {
+ 
+
+    margin-left: -394.874px;
+}
+.parallax-layer.parallax1 h3 {
+  
+    font-size: 26px;
+    
+}
+.parallax-layer.parallax1 h1 {
+    font-size: 42px;
+    line-height: 46px;
+    font-weight: bold;
+}
+.parallax-layer.parallax1 h4 {
+    font-size: 25px;
+    line-height: 0
+}
+.parallax-layer.parallax1 img {
+    position: absolute;
+    right: 169px;
+    top: -29px;
+    width: 17%;
+    /* left: 0; */
+}
+
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* Header Menu Hide Media Css */
+
+
+     /* Header Menu Hide Media Css */
+ nav.navbar {
+    padding: 6px 35px;
+}
+ .main-nav {
+    background: #333;
+    color: #fff;
+ }
+ .main-nav ul li a {
+    
+    color: #fff !important;
+    margin-left: 25px;
+    
+    margin-top: 10px;
+}
+.welcome-section {
+    padding: 64px 0;
+}
+.section-title h2 {
+    
+    font-size: 22px;
+   
+}
+.section-title p {
+    
+    padding: 0px 80px;
+    font-size: 14px;
+   
+}
+
+.welcome-content {
+    margin-top: 0;
+}
+.coffee-express h3 {
+    font-size: 32px;
+    margin-left: 21px;
+}
+.coffee-express h4 {
+    font-size: 48.8px;
+    margin-left: 23px;
+}
+.coffee-express p {
+    font-size: 12px;
+    color: #605850;
+    margin-left: 20px;
+    padding: 0 0;
+}
+a.read-more {
+    font-size: 28px;
+    margin-left: 15px;
+}
+.hot-img img {
+    width: 100%;
+    height: auto;
+}
+.hot-menu-content {
+    margin-left: 0px; 
+}
+
+
+.hot-menu-content img {
+    width: 75PX;
+}
+.hot-menu-content h2 {
+    font-size: 21px;
+}
+
+
+.hot-menu-content h3 {
+
+    font-size: 12px;
+    line-height: 22px;
+}
+.hot-menu-content h5 {
+   
+    display: none;
+}
+
+a.full-menu {
+
+    font-size: 12px;
+    padding: 16px 12px;
+    
+}
+.parallax-container {
+    background-image: url(../imgs/cup1.png);
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    width: 100%;
+    height: 275px;
+    
+}
+
+.cup-coffee img {
+    height: 369px;
+    /* padding: 51px 0; */
+}
+.cup-coffee {
+    padding-top: 0px; 
+    padding-bottom: 44px;
+}
+.w-text h3 {
+    font-size: 26px;
+    margin-bottom: 39px;
+    margin-top: -45px;
+}
+.p-title h3 {
+   
+    padding-top: 37px;
+    margin-bottom: 0;
+}
+.w-text p {
+    font-size: 19px;
+    padding: 0 35px;
+}
+.banner-left-text h4 {
+    padding-left: 241px;
+   
+}
+.banner-left-text h2 {
+   
+    font-size: 85.8px;
+    line-height: 102px;
+    margin-left: 247px;
+   
+}
+.banner-left-text p {
+    margin-left: 246px;
+  
+}
+.post-area {
+    padding: 80px 0;
+    text-align: center;
+}
+ /******/
+
+ .parallax-viewport {
+    
+    width: 100%;
+   
+ 
+}
+.parallax1 {
+    top: 106.5895%;
+    margin-top: -244.398px;
+}
+.parallax-layer.parallax1 h3 {
+    font-size: 51px;
+}
+
+.parallax-layer.parallax1 h1 {
+    font-size: 84px;
+    line-height: 82px;
+    font-weight: bold;
+}
+.parallax-layer.parallax1 h4 {
+    font-size: 55px;
+    line-height: 29px;
+}
+
+    
+.parallax-layer.parallax1 img {
+    position: absolute;
+    right: -11px;
+    top: -52px;
+    width: 260px;
+}
+.parallax1 {
+    
+    left: -9.3816%;
+    
+}
+.bg-1 {
+ 
+    height: 400px;
+}
+
+.parallax-viewport {
+    top: 130px;
+}
+
+
+
+
+
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* Header Menu Hide Media Css */
+
+.header-form {
+    display: none !important;
+}
+    .navbar-default {
+        padding: 25px 0;
+        -webkit-transition: padding .3s;
+         -moz-transition: padding .3s;
+        transition: padding .3s;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-default.navbar-shrink {
+         padding: 0 0;
+    }
+
+    .navbar-default.navbar-shrink .navbar-brand img {
+        width: 59%;
+    }
+    .section-title p {
+        
+        padding: 0px 76px;
+        font-size: 17px;
+        margin: 39px 0;
+        
+    }
+    .parallax-container {
+        height: 349px;
+    }
+    .coffee-express h3 {
+        font-size: 49px;
+       
+    }
+    .coffee-express h4 {
+        
+        font-size: 56.8px;
+       
+    }
+    .coffee-express p {
+        font-size: 15px;
+        margin-right: 22px;
+    }
+    .cup-coffee {
+        padding-top: 0px; 
+        padding-bottom: 44px;
+    }
+    
+    .cup-coffee img {
+        height: 369px;
+        /* padding: 51px 0; */
+    }
+    .fl{
+        float: left;
+    }
+    .side-title:after {
+      
+        left: -10px;
+       
+    }
+
+    .parallax-viewport {
+    
+        width: 100%;
+       
+     
+    }
+    .parallax1 {
+        top: 106.5895%;
+        margin-top: -244.398px;
+    }
+    .parallax-layer.parallax1 h3 {
+        font-size: 68px;
+    }
+    
+    .parallax-layer.parallax1 h1 {
+        font-size: 113px;
+        line-height: 82px;
+        font-weight: bold;
+    }
+    .parallax-layer.parallax1 h4 {
+        font-size: 74px;
+        line-height: 43px;
+    }
+    
+        
+    .parallax-layer.parallax1 img {
+        position: absolute;
+        right: -101px;
+        top: -49px;
+        width: 260px;
+    }
+    .parallax1 {
+        
+        left: -9.3816%;
+        
+    }
+    .bg-1 {
+     
+        height: 400px;
+    }
+    
+    .parallax-viewport {
+        top: 130px;
+    }
+    .parallax1 {
+        width: 1150px;
+        
+    }
+   
+    
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .header-form {
+        display: none !important;
+    }
+
+    .navbar-default {
+        padding: 25px 0;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-default.navbar-shrink {
+        padding: 0 0;
+    }
+
+    .navbar-default.navbar-shrink .navbar-brand img {
+        width: 59%;
+    }
+    .fl{
+        float: left;
+    }
+    
+
+    .parallax-viewport {
+    
+        width: 100%;
+       
+     
+    }
+    .parallax1 {
+        top: 106.5895%;
+        margin-top: -244.398px;
+    }
+    .parallax-layer.parallax1 h3 {
+        font-size: 68px;
+    }
+    
+    .parallax-layer.parallax1 h1 {
+        font-size: 113px;
+        line-height: 82px;
+        font-weight: bold;
+    }
+    .parallax-layer.parallax1 h4 {
+        font-size: 74px;
+        line-height: 43px;
+    }
+    
+        
+    .parallax-layer.parallax1 img {
+        position: absolute;
+        right: -101px;
+        top: -49px;
+        width: 260px;
+    }
+    .parallax1 {
+        
+        left: -9.3816%;
+        
+    }
+    .bg-1 {
+     
+        height: 400px;
+    }
+    
+    .parallax-viewport {
+        top: 130px;
+    }
+    .parallax1 {
+        width: 1150px;
+        
+    }
+   
+
+    
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/* ===========Main Header Media Css Start */
+
+    .header-form {
+        display: none !important;
+    }
+    .navbar-default {
+         padding: 25px 0;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-default.navbar-shrink {
+        padding: 0 0;
+    }
+
+    .navbar-default.navbar-shrink .navbar-brand img {
+        width: 59%;
+    }
+/* ===========Main Header Media Css end */
+
+}
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+/* ===========Main Header Media Css Start */
+    .navbar-default {
+        padding: 25px 0;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-default.navbar-shrink {
+        padding: 0 0;
+    }
+
+    .navbar-default.navbar-shrink .navbar-brand {
+        font-size: 1.5em;
+    }
+
+/* ===========Main Header Media Css end */
+
+ }
